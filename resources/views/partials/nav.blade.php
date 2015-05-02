@@ -1,0 +1,1 @@
+<p>{!! link_to_action('ArticlesController@show', $latest->title, [$latest->id]) !!}</p>
